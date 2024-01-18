@@ -3,10 +3,6 @@
 <style>
   @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
 
-  * {
-    margin: 0;
-  }
-
   h1 {
     padding-top: 10px;
     background-color: tomato;
