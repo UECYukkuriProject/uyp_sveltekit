@@ -1,5 +1,6 @@
 <div>
   <h2>MaidIllager ~邪悪な村人の見た目が若干変わるMOD~</h2>
+  <img alt="2023-12-07_18.54.02" src="./images/2023-12-07_18.54.02.png" /><br />
   <a href="https://github.com/UECYukkuriProject/MaidIllagerForge/wiki">
     Forge版
   </a>
