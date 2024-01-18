@@ -4,7 +4,7 @@
 
 <h1>UEC Yukkuri Project</h1>
 
-<nav>
+<!--<nav>
   <a href="/" aria-current={$page.url.pathname === "/"}>トップ</a>
   <a href="/products" aria-current={$page.url.pathname === "/products"}>
     作ったもの
@@ -12,7 +12,7 @@
   <a href="/members" aria-current={$page.url.pathname === "/members"}>
     メンバー
   </a>
-</nav>
+</nav>-->
 
 <slot />
 
