@@ -7,10 +7,16 @@
 
 <nav>
   <a href="{base}/" aria-current={$page.url.pathname === "/"}>トップ</a>
-  <a href="{base}/products" aria-current={$page.url.pathname === "/products"}>
+  <a
+    href="{base}/products"
+    aria-current={$page.url.pathname === base + "/products"}
+  >
     作ったもの
   </a>
-  <a href="{base}/members" aria-current={$page.url.pathname === "/members"}>
+  <a
+    href="{base}/members"
+    aria-current={$page.url.pathname === base + "/members"}
+  >
     メンバー
   </a>
 </nav>
