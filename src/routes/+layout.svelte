@@ -2,8 +2,8 @@
 
 <nav>
   <a href="/">トップ</a>
-  <a href="/products"> 作ったもの </a>
-  <a href="/members"> メンバー </a>
+  <a href="/"> 作ったもの </a>
+  <a href="/"> メンバー </a>
 </nav>
 
 <slot />
