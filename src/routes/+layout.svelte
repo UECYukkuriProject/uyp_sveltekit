@@ -6,7 +6,7 @@
 <h1>UEC Yukkuri Project</h1>
 
 <nav>
-  <a href="{base}/" aria-current={$page.url.pathname === "/"}>トップ</a>
+  <a href="{base}/" aria-current={$page.url.pathname === base + "/"}>トップ</a>
   <a
     href="{base}/products"
     aria-current={$page.url.pathname === base + "/products"}
