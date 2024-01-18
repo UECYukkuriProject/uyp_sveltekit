@@ -1,15 +1,12 @@
-<h1>Hello World!</h1>
+<div>
+  <p>ゆっくりプロジェクトの公式サイトです。</p>
+  <a href="https://github.com/UECYukkuriProject">GitHub</a>
+</div>
 
 <style>
-  @import url(http://fonts.googleapis.com/earlyaccess/notosansjp.css);
-
-  h1 {
-    padding-top: 10px;
-    background-color: tomato;
-    color: black;
-    -webkit-text-stroke: white 1px;
+  div {
+    margin: 1em;
     text-align: center;
-    font-weight: bold;
     font-family: "Noto Sans JP", sans-serif;
   }
 </style>
