@@ -15,9 +15,11 @@
   </a>
 </nav>-->
 
-<a href="{base}/">トップ</a>
-<a href="{base}/"> 作ったもの </a>
-<a href="{base}/"> メンバー </a>
+<nav>
+  <a href="{base}/">トップ</a>
+  <a href="{base}/"> 作ったもの </a>
+  <a href="{base}/"> メンバー </a>
+</nav>
 
 <slot />
 
