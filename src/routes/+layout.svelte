@@ -1,4 +1,5 @@
 <script>
+  import { base } from "$app/paths";
   import { page } from "$app/stores";
 </script>
 
@@ -14,9 +15,9 @@
   </a>
 </nav>-->
 
-<a href="/">トップ</a>
-<a href="/products"> 作ったもの </a>
-<a href="/members"> メンバー </a>
+<a href="{base}/">トップ</a>
+<a href="{base}/products"> 作ったもの </a>
+<a href="{base}/members"> メンバー </a>
 
 <slot />
 
