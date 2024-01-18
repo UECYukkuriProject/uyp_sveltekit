@@ -1,17 +1,9 @@
-<script>
-  import { page } from "$app/stores";
-</script>
-
 <h1>UEC Yukkuri Project</h1>
 
 <nav>
-  <a href="/" aria-current={$page.url.pathname === "/"}>トップ</a>
-  <a href="/products" aria-current={$page.url.pathname === "/products"}>
-    作ったもの
-  </a>
-  <a href="/members" aria-current={$page.url.pathname === "/members"}>
-    メンバー
-  </a>
+  <a href="/">トップ</a>
+  <a href="/products"> 作ったもの </a>
+  <a href="/members"> メンバー </a>
 </nav>
 
 <slot />
