@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: "path_test/1"
+    branches: "main"
 
 jobs:
   build_site:
