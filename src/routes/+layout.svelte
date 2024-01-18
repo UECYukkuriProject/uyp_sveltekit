@@ -14,6 +14,10 @@
   </a>
 </nav>-->
 
+<a href="/">トップ</a>
+<a href="/products"> 作ったもの </a>
+<a href="/members"> メンバー </a>
+
 <slot />
 
 <style>
